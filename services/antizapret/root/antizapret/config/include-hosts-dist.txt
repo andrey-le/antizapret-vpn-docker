@@ -182,3 +182,23 @@ netflix.com
 hdrezka.me
 voidboost.cc
 voidboost.in
+
+# roblox
+roblox.com
+rbxcdn.com
+
+# apple facetime
+facetime.apple.com
+facetime-apple-com.we.apple-dns.net
+
+# games
+playstation
+playstation.com
+playstation.net
+sonyentertainmentnetwork.com
+beth.games
+bethesda.net
+bethesdagamestudios.com
+bethsoft.com
+doom.com
+elderscrolls.com
