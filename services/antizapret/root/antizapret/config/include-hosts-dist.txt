@@ -7,6 +7,7 @@ ua
 acf.international
 adguard.com
 amazfitwatchfaces.com
+bbc.co.uk
 bbci.co.uk
 buymeacoffee.com
 cdninstagram.com
@@ -34,6 +35,8 @@ theins.ru
 wixmp.com
 reverb.com
 viber.com
+lampa.mx
+jacred.xyz
 
 # youtube
 youtube.com
@@ -43,7 +46,6 @@ ggpht.com
 googleusercontent.com
 googlevideo.com
 youtubei.googleapis.com
-
 
 # google
 news.google.com
@@ -167,6 +169,12 @@ hetzner.com
 pokerplanning.org
 thanosjs.org
 smartsheet.com
+intel.com
+broadcom.com
+corsair.com
+oracle.com
+oraclecloud.com
+xerox.com
 
 #discord
 discord.com
